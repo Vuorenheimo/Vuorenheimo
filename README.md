@@ -2,7 +2,6 @@
 - 👀 I’m interested in music and A.I programming.
 - 🌱 I’m currently learning coding C++/Python/Java/HTML/CSS/JavaScript.
 - 💞️ I’m looking to collaborate on projects that develops my practices.
-- 📫 How to reach me: False;
 
 <!---
 Vuorenheimo/Vuorenheimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
